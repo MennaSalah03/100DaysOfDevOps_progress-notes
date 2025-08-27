@@ -1,114 +1,65 @@
+I have updated the list, prepending a `0` to all single-digit numbers.
+
 In this Repo, I am compiling all the knowledge I obtained from the 100 days of DevOps by KodeKloud. This is both as an accountability and for when I need to revise something I did in the challenge. It can also serve to help other people with some topics but not a great deal.
 
 Each log of this will have an explanation of the task, my process, final result and also the resources that helped me to succeed in understanding doing the task.
 
-PS: I got this idea on day 7 of the challenge, that's why it may have early logs empty. I intend to fill them eventually though.
-## Current Progress - Start date: 4 Aug 2025
+PS: I got this idea on day 07 of the challenge, that's why it may have early logs empty. I intend to fill them eventually though.
 
-- [x] [[Day 1 - Linux User Setup with Non-Interactive Shell]]
-    
-- [x] [[Day 2 - Temporary User Setup with Expiry]]
-    
-- [x] [[Day 3 - Secure Root SSH Access]]
-    
-- [x] [[Day 4 - Script Execution Permissions]]
-    
-- [x] [[Day 5 - SElinux Installation and Configuration]]
-    
-- [x] [[Day 6 - Create a Cron Job]]
-    
-- [x] [[Day 7 - Linux SSH Authentication]]
-    
-- [x] [[Day 8 - Install Ansible]]
-    
-- [x] [[Day 9 - MariaDB Troubleshooting]]
-    
+## Current Progress - Start date: 04 Aug 2025
+
+- [x] [[Day 01 - Linux User Setup with Non-Interactive Shell]    
+- [x] [[Day 02 - Temporary User Setup with Expiry]]
+- [x] [[Day 03 - Secure Root SSH Access]]
+- [x] [[Day 04 - Script Execution Permissions]]
+- [x] [[Day 05 - SElinux Installation and Configuration]]
+- [x] [[Day 06 - Create a Cron Job]]
+- [x] [[Day 07 - Linux SSH Authentication]]
+- [x] [[Day 08 - Install Ansible]]
+- [x] [[Day 09 - MariaDB Troubleshooting]]
 - [x] [[Day 10 - Linux Bash Scripts]]
-    
 - [x] [[Day 11 - Install and Configure Tomcat Server]]
-    
 - [x] [[Day 12 - Linux Network Services]]
-    
 - [x] [[Day 13 - IPtables Installation And Configuration]]
-    
 - [x] [[Day 14 - Linux Process Troubleshooting]]
-    
 - [x] [[Day 15 - Setup SSL for Nginx]]
-    
 - [x] [[Day 16 - Install and Configure Nginx as an LBR]]
-    
-- [ ] [[Day 17 - Install and Configure PostgreSQL]]
-    
-- [ ] [[Day 18 - Configure LAMP server]]
-    
-- [ ] [[Day 19 - Install and Configure Web Application]]
-    
-- [ ] [[Day 20 - Configure Nginx + PHP-FPM Using Unix Sock]]
-    
-- [ ] [[Day 21 - Set Up Git Repository on Storage Server]]
-    
-- [ ] [[Day 22 - Clone Git Repository on Storage Server]]
-    
-- [ ] [[Day 23 - Fork a Git Repository]]
-    
-- [ ] [[Day 24 - Git Create Branches]]
-    
+- [x] [[Day 17 - Install and Configure PostgreSQL]]
+- [x] [[Day 18 - Configure LAMP server]]
+- [x] [[Day 19 - Install and Configure Web Application]]
+- [x] [[Day 20 - Configure Nginx + PHP-FPM Using Unix Sock]]
+- [x] [[Day 21 - Set Up Git Repository on Storage Server]]
+- [x] [[Day 22 - Clone Git Repository on Storage Server]]
+- [x] [[Day 23 - Fork a Git Repository]]    
+- [x] [[Day 24 - Git Create Branches]]
 - [ ] [[Day 25 - Git Merge Branches]]
-    
 - [ ] [[Day 26 - Git Manage Remotes]]
-    
-- [ ] [[Day 27 - Git Revert Some Changes]]
-    
-- [ ] [[Day 28 - Git Cherry Pick]]
-    
-- [ ] [[Day 29 - Manage Git Pull Requests]]
-    
+- [ ] [[Day 27 - Git Revert Some Changes]]    
+- [ ] [[Day 28 - Git Cherry Pick]]    
+- [ ] [[Day 29 - Manage Git Pull Requests]]    
 - [ ] [[Day 30 - Git hard reset]]
-    
 - [ ] [[Day 31 - Git Stash]]
-    
 - [ ] [[Day 32 - Git Rebase]]
-    
 - [ ] [[Day 33 - Resolve Git Merge Conflicts]]
-    
 - [ ] [[Day 34 - Git Hook]]
-    
 - [ ] [[Day 35 - Install Docker Packages and Start Docker Service]]
-    
 - [ ] [[Day 36 - Deploy Nginx Container on Application Server]]
-    
 - [ ] [[Day 37 - Copy File to Docker Container]]
-    
 - [ ] [[Day 38 - Pull Docker Image]]
-    
 - [ ] [[Day 39 - Create a Docker Image From Container]]
-    
 - [ ] [[Day 40 - Docker EXEC Operations]]
-    
 - [ ] [[Day 41 - Write a Docker File]]
-    
 - [ ] [[Day 42 - Create a Docker Network]]
-    
 - [ ] [[Day 43 - Docker Ports Mapping]]
-    
 - [ ] [[Day 44 - Write a Docker Compose File]]
-    
 - [ ] [[Day 45 - Resolve Dockerfile Issues]]
-    
 - [ ] [[Day 46 - Deploy an App on Docker Containers]]
-    
 - [ ] [[Day 47 - Docker Python App]]
-    
 - [ ] [[Day 48 - Deploy Pods in Kubernetes Cluster]]
-    
 - [ ] [[Day 49 - Deploy Applications with Kubernetes Deployments]]
-    
 - [ ] [[Day 50 - Set Resource Limits in Kubernetes Pods]]
-    
 - [ ] [[Day 51 - Execute Rolling Updates in Kubernetes]]
-    
 - [ ] [[Day 52 - Revert Deployment to Previous Version in Kubernetes]]
-    
 - [ ] [[Day 53 - Resolve VolumeMounts Issue in Kubernetes]]
     
 - [ ] [[Day 54 - Kubernetes Shared Volumes]]
