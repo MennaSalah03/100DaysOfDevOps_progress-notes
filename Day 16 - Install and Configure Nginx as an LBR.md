@@ -15,6 +15,9 @@ The configuration was a bit different though, and you need to know the port conn
 ```
 sudo ss -tlnp | grep httpd
 ```
+
+
+```
 upstream app_servers {
     server 172.16.238.10:8089;
     server 172.16.238.11:8089;
@@ -22,7 +25,8 @@ upstream app_servers {
 }
 
 server {
-	......
+	...
+	...
 	
     location / {
         proxy_pass http://app_servers;
@@ -32,7 +36,7 @@ server {
         proxy_set_header X-Forwarded-Proto $scheme;
     }
 }
-
+```
 ## check success
 After changing configuration file, Test nginx configuration for syntax errors
 ```

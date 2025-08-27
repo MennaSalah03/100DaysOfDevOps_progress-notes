@@ -1,5 +1,3 @@
-This was a failure on the day of.
-
 The steps I followed:
 
 ```

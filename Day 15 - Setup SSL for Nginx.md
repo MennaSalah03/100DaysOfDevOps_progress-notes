@@ -28,4 +28,3 @@ curl -Ik https://172.16.238.11/
 
 ## Resources
 - [Securing Nginx Web Server | Hackersploit Linux Security](https://www.youtube.com/watch?v=W44Q-8fU1OU&list=PLTnRtjQN5ieb3ljl02823yOnUax7sF1DD&index=1)
-- 
